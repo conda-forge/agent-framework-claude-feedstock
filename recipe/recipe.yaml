@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "1.0.0b260514"
+  version: "1.0.0b260521"
   python_min: "3.10"
 
 package:
@@ -10,7 +10,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/a/agent-framework-claude/agent_framework_claude-${{ version }}.tar.gz
-  sha256: 339058654d267fd4a521751269ab0ab8060fda0bdffe88aae3164a6439a5a089
+  sha256: 32d87380b9e10cd63859f3cf218a3086ac24dafb200acb1fbba3658f6f71f32f
 
 build:
   noarch: python
